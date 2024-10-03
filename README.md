@@ -1,6 +1,5 @@
- Comprehensive Guide to Hacking (for Educational Purposes Only)
 
-Disclaimer: This guide is for ethical hacking and penetration testing only. Unauthorized access to networks and systems is illegal and punishable by law. Always ensure you have permission to test any network.
+
 
 1. Introduction to How Computers Communicate
 
